@@ -1,27 +1,27 @@
 # Проект демонстрации автоматизированного тестирования для parabank.parasoft.com
 
 
-## Content
+## :pushpin: Содержание:
 
 > ➠ [Используемый стэк](#abacus-Используемый-стэк)
 >
-> ➠ [Реализованные проверки](#abacus-technology-stack)
+> ➠ [Реализованные проверки](#-Реализованные-проверки)
 >
-> ➠ [Запуск тестов с терминала](#Running-tests-from-the-terminal)
+> ➠ [Запуск тестов с терминала](#Запуск-тестов-с-терминала)
 >
-> ➠ [Отчеты о резултатах тестирования в Allure Report](#-main-page-of-allure-report)
+> ➠ [Отчеты тестирования в Allure Report](#-Отчеты-тестирования-в-Allure-Report)
 >
-> ➠ [Тест кейсы Allure Report](#-suites-page-of-allure-report)
+> ➠ [Тест кейсы Allure Report](#-Тест-кейсы-Allure-Report)
 >
-> ➠ [Отчет о тестировании в Allure Test Ops](#-main-page-of-allure-testops)
+> ➠ [Отчет в Allure Test Ops](#-Отчет-в-Allure-Test-Ops)
 >
-> ➠ [Дашборд Allure Test Ops](#-dashboard-page-of-allure-testops)
+> ➠ [Дашборд Allure Test Ops](#-Дашборд-Allure-Test-Ops)
 >
-> ➠ [Бот уведомлений Telegram](#notification-telegram-bot)
+> ➠ [Бот уведомлений Telegram](#Бот-уведомлений-Telegram)
 >
-> ➠ [Интеграция Jira с Allure Test Ops](#-jira-integration-with-allure-testops)
+> ➠ [Интеграция Jira с Allure Test Ops](#-Интеграция-Jira-с-Allure-Test-Ops)
 >
-> ➠ [Пример запуска теста в Selenoid](#-an-example-of-running-a-test-in-selenoid)
+> ➠ [Пример запуска теста в Selenoid](#-Пример-запуска-теста-в-Selenoid)
 
 ## :abacus: Используемый стэк
 
@@ -40,3 +40,51 @@
 <img width="6%" title="Telegram API" src="images/logo/Telegram.svg">
 <img width="6%" title="Jira" src="images/logo/jira-seeklogo.com.svg">
 </p>
+
+
+## Реализованные проверки
+
+
+
+
+## Запуск тестов с терминала
+
+
+
+
+
+
+## Отчеты тестирования в Allure Report
+
+
+
+
+
+
+
+
+## Тест кейсы Allure Report
+
+
+
+
+
+## Отчет в Allure Test Ops
+
+
+## Дашборд Allure Test Ops
+
+
+
+
+## Бот уведомлений Telegram
+
+
+
+
+## Интеграция Jira с Allure Test Ops
+
+
+
+
+## Пример запуска теста в Selenoid
