@@ -3,11 +3,11 @@
 
 ## :pushpin: Содержание:
 
-> ➠ [Используемый стэк](#abacus-Используемый-стэк)
+> ➠ [Используемый стэк](#-Используемый-стэк)
 >
 > ➠ [Реализованные проверки](#-Реализованные-проверки)
 >
-> ➠ [Запуск тестов с терминала](#Запуск-тестов-с-терминала)
+> ➠ [Запуск тестов с терминала](#-Запуск-тестов-с-терминала)
 >
 > ➠ [Отчеты тестирования в Allure Report](#-Отчеты-тестирования-в-Allure-Report)
 >
@@ -17,13 +17,13 @@
 >
 > ➠ [Дашборд Allure Test Ops](#-Дашборд-Allure-Test-Ops)
 >
-> ➠ [Бот уведомлений Telegram](#Бот-уведомлений-Telegram)
+> ➠ [Бот уведомлений Telegram](#-Бот-уведомлений-Telegram)
 >
 > ➠ [Интеграция Jira с Allure Test Ops](#-Интеграция-Jira-с-Allure-Test-Ops)
 >
 > ➠ [Пример запуска теста в Selenoid](#-Пример-запуска-теста-в-Selenoid)
 
-## :abacus: Используемый стэк
+## Используемый стэк
 
 <p align="center">
 <img width="6%" title="IntelliJ IDEA" src="images/logo/Intelij_IDEA.svg">
@@ -79,7 +79,7 @@
 
 ## Бот уведомлений Telegram
 
-
+### <img width="4%" title="Allure TestOps" src="images/logo/Allure_TO.svg"> Main page of <code>Allure TestOps</code>
 
 
 ## Интеграция Jira с Allure Test Ops
