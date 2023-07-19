@@ -22,7 +22,7 @@
 >
 >  [Пример запуска теста в Selenoid](#Пример-запуска-теста-в-Selenoid)
 
-## Используемый стэк
+## :tshirt: Используемый стэк
 
 <p align="center">
 <img width="6%" title="IntelliJ IDEA" src="images/logo/Intelij_IDEA.svg">
